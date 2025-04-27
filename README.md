@@ -1,3 +1,3 @@
-# navya.github.io
+# vikas.github.io
 
 This is my Portfolio Website.
